@@ -1,0 +1,3 @@
+[submodule "source-repos/audi-eu-vtp"]
+	path = source-repos/audi-eu-vtp
+	url = https://github.com/oneaudi/vtp.git
